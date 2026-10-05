@@ -14,6 +14,7 @@ I analyze AI-generated content for accuracy, relevance, clarity, reasoning quali
 
 ## Featured Projects
 
+- [ClearJP Case #002 — Japanese AI/SaaS Localization QA](https://github.com/law-ai-lab/ai-llm-evaluation-project/blob/main/clearjp/002-ai-meeting-notes-localization-qa.md) — An AI-assisted fictional review of Japanese meeting-notes UI, documenting clarity, terminology, context fit, and feature-risk wording
 - [LLM Response Evaluation Project](https://github.com/law-ai-lab/ai-llm-evaluation-project) — Structured AI response evaluation and simple Python workflows
 - [Prompt Evaluation Experiments](https://github.com/law-ai-lab/prompt-evaluation-experiments) — Analysis of how prompt design affects response quality
 - [Contract Checker](https://github.com/law-ai-lab/contract-checker) — A bilingual Python mini-tool that flags contract risk terms
