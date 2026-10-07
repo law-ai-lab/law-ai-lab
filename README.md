@@ -2,7 +2,8 @@
 
 ### AI Evaluation & Quality | Japanese Language & Cultural Analysis
 
-I analyze AI-generated content for accuracy, relevance, clarity, reasoning quality, safety, and cultural fit. My approach combines evidence-based evaluation with experience in operations, data management, and structured documentation.
+I analyze AI-generated content for accuracy, relevance, clarity, reasoning quality, safety, and cultural fit. My approach combines evidence-based evaluation with experience in operations, data management, and structured documentation. 
+**ClearJP:** [clearjp.com](https://clearjp.com) — Japanese AI & Localization Quality Review
 
 ## Focus Areas
 
